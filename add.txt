@@ -1,5 +1,5 @@
 
 welcome to my branch which changed in local
 
-welcome to my branch which is changed in remote
+welcome to my branch which is changed in remote.Done changes in Remote for stash
 
